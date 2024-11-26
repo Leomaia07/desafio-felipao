@@ -1,4 +1,4 @@
-let nomeHeroi = "leo";
+let nomeHeroi = "leonardo";
 let xpHeroi = 100000;
 
 switch (true) {
